@@ -4,12 +4,12 @@ Este repositório tem como objetivo armazenar os arquivos referentes ao módulo 
 
 Ao longo deste módulo, foram consolidados diversos conceitos aprendidos durante a formação, incluindo:
 
-- 🔹 Tratamento e preparação de dados (missing values e outliers)  
-- 🔹 Engenharia e seleção de variáveis  
-- 🔹 Redução de dimensionalidade com PCA  
-- 🔹 Criação de pipelines utilizando `scikit-learn`  
-- 🔹 Treinamento e avaliação de modelos de machine learning  
-- 🔹 Deploy de aplicações utilizando Streamlit  
+- Tratamento e preparação de dados (missing values e outliers)  
+- Engenharia e seleção de variáveis  
+- Redução de dimensionalidade com PCA  
+- Criação de pipelines utilizando `scikit-learn`  
+- Treinamento e avaliação de modelos de machine learning  
+- Deploy de aplicações utilizando Streamlit  
 
 Como parte do projeto final, foi desenvolvido um modelo de **Credit Scoring**, com o objetivo de prever a probabilidade de inadimplência de clientes a partir de suas características.
 
